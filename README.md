@@ -15,20 +15,15 @@ In this repo I have used SQL to analyze historical credit card transactions and 
 
 ---
 
-## Instructions
+## The Process
 
 ### Data Modeling
 
-Create an entity relationship diagram (ERD) by inspecting the provided CSV files.
-
-Part of the challenge here is to figure out how many tables you should create, as well as what kind of relationships you need to define among the tables.
-
+I have created an entity relationship diagram (ERD) based on the CSV files. You can view the ERD file in the ERD notebook.
 
 ### Data Engineering
 
-Using your database model as a blueprint, create a database schema for each of your tables and relationships. Remember to specify data types, primary keys, foreign keys, and any other constraints you defined.
-
-After creating the database schema, import the data from the corresponding CSV files.
+Using the database model as a blueprint I have created a database schema for each of the tables and relationships. After creating the database schema, I imported the data from the corresponding CSV files.
 
 ### Data Analysis
 
